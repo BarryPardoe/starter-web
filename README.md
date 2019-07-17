@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 Some more text
+Even more bleeding text
 
 Sample website with plenty of files for demos
 
@@ -11,6 +12,7 @@ Sample website with plenty of files for demos
 Even more text
 
 ## And Another
+Nearly there!
 
 ## Deployment
 Adding some text
