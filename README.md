@@ -16,3 +16,6 @@ Nearly there!
 
 ## Deployment
 Adding some text
+
+### Copyright
+Extra stuff here
